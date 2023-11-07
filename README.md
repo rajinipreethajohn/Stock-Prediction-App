@@ -3,11 +3,10 @@
 [![Visit Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stock-prediction-app-2023.streamlit.app/)
 
 This is a web application built with Streamlit, a popular Python library for creating web apps, to predict stock prices using the Prophet forecasting model. Users can select a stock (AAPL, GOOG, MSFT, TSLA) and specify the number of years for the prediction. The app displays the historical stock data, predicts future stock prices, and visualizes the forecasted data and components.
+<img width="952" alt="StockPrediction" src="https://github.com/rajinipreethajohn/Stock-Prediction-App/assets/72058664/e1ed8a4f-5ecc-4330-8a7c-5ddd91bfb73f">
 
-<img width="1308" alt="StockPrediction" src="https://github.com/rajinipreethajohn/Stock-Prediction-App/assets/72058664/13b4eebd-592f-4502-a4c1-e1669fd50eca">
+<img width="804" alt="stock1" src="https://github.com/rajinipreethajohn/Stock-Prediction-App/assets/72058664/98625ab0-93d4-402d-ae8b-515aa611d2a7">
 
-
-<img width="1334" alt="stock1" src="https://github.com/rajinipreethajohn/Stock-Prediction-App/assets/72058664/d7927561-e420-4946-8285-8c5df3c90fb5">
 
 ## Getting Started
 
